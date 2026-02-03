@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Calvin Wong - [@calwong88](https://github.com/calwong88)
 
 ## 🙏 Acknowledgments
 
