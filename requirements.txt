@@ -1,0 +1,5 @@
+# This project uses only Python standard library modules
+# No external dependencies required
+
+# Python 3.6+ required
+# tkinter (usually included with Python installation)
